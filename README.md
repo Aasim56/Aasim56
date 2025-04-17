@@ -9,9 +9,6 @@
 ## 🧭 About Me
 - 🎓 Final Year CSE Student (Class of 2025)
 - 🛠️ Aspiring **DevSecOps Engineer** | On an 8-month journey from **Beginner ➡️ Expert**
-- 🤖 Worked on ML-based **Disease Prediction System** at **Airobosoft**
-- 📘 Final Year Capstone Project: *Disease Prediction using Machine Learning*
-- 💼 Developed a **Smart Resume Analyzer** to analyze job applicants' resumes using NLP & ML
 - 🗣️ Learning **Gulf Arabic dialect** for better cultural & professional connection
 - 🧎‍♂️ A strong believer in the power of **faith, patience, and purpose**
 
