@@ -47,18 +47,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 💬 Let's Connect
 - 📧 Email: asimkhot80@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/yourusername](#)  
