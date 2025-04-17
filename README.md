@@ -60,7 +60,7 @@
 ---
 
 ## 💬 Let's Connect
-- 📧 Email: your.email@example.com  
+- 📧 Email: asimkhot80@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/yourusername](#)  
 - 🌐 Portfolio (coming soon): [yourdomain.com](#)  
 
