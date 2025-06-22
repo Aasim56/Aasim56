@@ -1,20 +1,20 @@
-<h1 align="center">👋 As-salamu alaykum, I'm Asim!</h1>
+<h1 align="center"> As-salamu alaykum, I'm Asim Khot!</h1>
 
 <p align="center">
-🌟 Computer Science Engineer | 🛡️ DevOps Enthusiast | 🧠 AI Explorer | 🌐 Arabic Learner  
+ Computer Science Engineer |  DevOps Enthusiast |  AI Explorer   
 </p>
 
 ---
 
-## 🧭 About Me
-- 🎓 Computer Science Engineer
-- 🛠️ Aspiring **DevOps Engineer
-- 🗣️ Learning **Gulf Arabic dialect** for better cultural & professional connection
-- 🧎‍♂️ A strong believer in the power of **faith, patience, and purpose**
+## About Me
+- Computer Science Engineer
+-  Aspiring **DevOps Engineer
+-  Learning **Gulf Arabic dialect** for better cultural & professional connection
+-  A strong believer in the power of **faith, patience, and purpose**
 
 ---
 
-## 🔧 Technologies & Tools
+##  Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -32,12 +32,12 @@
 
 ---
 
-## 🔬 My Projects
+##  My Projects
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| **Disease Prediction System (Final Year Project)** | Python, Tkinter, ML (Random Forest, Naive Bayes, Decision Tree), CSV | Capstone project predicting diseases based on user symptoms using machine learning. User-friendly desktop interface built with Tkinter |
-| **Smart Resume Analyzer** | Python, NLP (Spacy), ML (TF-IDF, SVM), CSV | A tool to analyze and rank resumes based on job descriptions, improving the recruitment process |
+| **Disease Prediction System ** | Python, Tkinter, ML (Random Forest, Naive Bayes, Decision Tree), CSV | Capstone project predicting diseases based on user symptoms using machine learning. User-friendly desktop interface built with Tkinter |
+| **Smart Resume Analyzer (Final Year Project)** | Python, NLP (Spacy), ML (TF-IDF, SVM), CSV | A tool to analyze and rank resumes based on job descriptions, improving the recruitment process |
 | **Password Generator** | HTML, CSS, JavaScript | A simple password generator built using JavaScript, providing users with random, secure passwords |
 | **YouTube Clone** | HTML, CSS, JavaScript | A frontend clone of YouTube featuring responsive layouts and basic video functionalities |
 | **Basic Notes Application** | Android Studio, Java | A simple notes application allowing users to create, edit, and delete notes on Android |
@@ -48,27 +48,27 @@
 
 ---
 
-## 🧠 Currently Learning
-- 🔐 DevOps (Docker, CI/CD, Cloud Security, Scripting)
-- 🗣️ Gulf Arabic (Speaking & Vocabulary)
-- 🧠 Advanced ML Concepts
-- 🌥️ AWS & Cloud Platforms
+##  Currently Learning
+-  DevOps (Docker, CI/CD, Cloud Security, Scripting)
+-  Gulf Arabic (Speaking & Vocabulary)
+-  Advanced ML Concepts
+-  AWS & Cloud Platforms
 
 ---
 
-## 💬 Let's Connect
-- 📧 Email: asimkhot80@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](#)  
-- 🌐 Portfolio (coming soon): [yourdomain.com](#)  
+## Let's Connect
+-  Email: asimkhot80@gmail.com  
+-  LinkedIn: [linkedin.com/in/yourusername](#)  
+-  Portfolio (coming soon): [yourdomain.com](#)  
 
 ---
 
-## 🌿 Daily Motivation
+##  Daily Motivation
 
 > _“And those who strive for Us – We will surely guide them to Our ways.”_  
 > — **Surah Al-Ankabut (29:69)**
 
 ---
 
-## 🙌 Thank You for Visiting!
+##  Thank You for Visiting!
 Feel free to explore my repositories and reach out — always happy to connect and collaborate!
