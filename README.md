@@ -1,14 +1,14 @@
 <h1 align="center">👋 As-salamu alaykum, I'm Asim!</h1>
 
 <p align="center">
-🌟 Computer Science Engineering Student | 🛡️ DevSecOps Enthusiast | 🧠 AI/ML Explorer | 🌐 Arabic Learner  
+🌟 Computer Science Engineer | 🛡️ DevOps Enthusiast | 🧠 AI Explorer | 🌐 Arabic Learner  
 </p>
 
 ---
 
 ## 🧭 About Me
-- 🎓 Final Year CSE Student (Class of 2025)
-- 🛠️ Aspiring **DevSecOps Engineer** | On an 8-month journey from **Beginner ➡️ Expert**
+- 🎓 Computer Science Engineer
+- 🛠️ Aspiring **DevOps Engineer
 - 🗣️ Learning **Gulf Arabic dialect** for better cultural & professional connection
 - 🧎‍♂️ A strong believer in the power of **faith, patience, and purpose**
 
@@ -49,7 +49,7 @@
 ---
 
 ## 🧠 Currently Learning
-- 🔐 DevSecOps (Docker, CI/CD, Cloud Security, Scripting)
+- 🔐 DevOps (Docker, CI/CD, Cloud Security, Scripting)
 - 🗣️ Gulf Arabic (Speaking & Vocabulary)
 - 🧠 Advanced ML Concepts
 - 🌥️ AWS & Cloud Platforms
